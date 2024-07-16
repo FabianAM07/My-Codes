@@ -5,7 +5,7 @@
 body{
     background-color: hsl(212, 45%, 89%);
 }
-section{
+.container{
     background-color: hsl(0, 0%, 100%);
     margin: 6.5% auto;
     width: 20%;
@@ -16,7 +16,7 @@ section{
     padding: 5%;
     border-radius: 30px;
 }
-.heading{
+h3{
     font-family: "Outfit", sans-serif;
     font-weight: 700;
     color: hsl(218, 44%, 22%);
@@ -24,7 +24,7 @@ section{
     text-align: center;
     padding: 0px 25px 15px 25px;
 }
-.info{
+p{
     font-family: "Outfit", sans-serif;
     font-size: 15px;
     font-weight: 400;
