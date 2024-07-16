@@ -16,7 +16,7 @@ body{
     padding: 5%;
     border-radius: 30px;
 }
-h3{
+.heading{
     font-family: "Outfit", sans-serif;
     font-weight: 700;
     color: hsl(218, 44%, 22%);
@@ -24,7 +24,7 @@ h3{
     text-align: center;
     padding: 0px 25px 15px 25px;
 }
-p{
+.info{
     font-family: "Outfit", sans-serif;
     font-size: 15px;
     font-weight: 400;
